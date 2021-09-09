@@ -1,6 +1,6 @@
 # nippy: Chrome app for notes and code snippets
 
-**nippy** allows you to create and save notes in your browser, like those links you think you might use later or that piece of code you found particularly interesting to use later.
+**nippy** allows you to create and save notes in your browser, like those links you think you might use later or that piece of code you found particularly interesting.
 
 This is one project in a series of tools that I am building, whether for daily use or just for the fun of learning something new.
 
